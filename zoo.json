@@ -1,0 +1,62 @@
+{
+  "cages" : {
+    "1" : {
+      "name" : "Dumbo",
+      "age" : 2,
+      "hungerStatus" : 1,
+      "healthStatus" : 5,
+      "specie" : "Elephant"
+    },
+    "2" : {
+      "name" : "Spirit",
+      "age" : 5,
+      "hungerStatus" : 4,
+      "healthStatus" : 6,
+      "specie" : "Horse"
+    },
+    "3" : {
+      "name" : "Simba",
+      "age" : 3,
+      "hungerStatus" : 2,
+      "healthStatus" : 3,
+      "specie" : "Lion"
+    },
+    "4" : {
+      "name" : "Nickita",
+      "age" : 4,
+      "hungerStatus" : 5,
+      "healthStatus" : 10,
+      "specie" : "Peacock"
+    },
+    "5" : {
+      "name" : "Tony",
+      "age" : 6,
+      "hungerStatus" : 5,
+      "healthStatus" : 4,
+      "specie" : "Tiger"
+    },
+    "6" : {
+      "name" : "Hobbes",
+      "age" : 2,
+      "hungerStatus" : 2,
+      "healthStatus" : 7,
+      "specie" : "Tiger"
+    },
+    "7" : {
+      "name" : "Tigress",
+      "age" : 3,
+      "hungerStatus" : 3,
+      "healthStatus" : 6,
+      "specie" : "Tiger"
+    },
+    "8" : {
+      "name" : "Lioness",
+      "age" : 8,
+      "hungerStatus" : 4,
+      "healthStatus" : 6,
+      "specie" : "Lion"
+    }
+  },
+  "animalSequence" : 8,
+  "open" : false
+}
