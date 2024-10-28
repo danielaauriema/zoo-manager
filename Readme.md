@@ -5,6 +5,8 @@ To run it directly from console, use the following command:
 gradlew -q --console plain run
 ```
 
+To run the app using docker, execute `run.sh` or `run.bat`.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
